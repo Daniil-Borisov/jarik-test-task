@@ -1,6 +1,9 @@
 {
   "homepage": {
     "title": "Homepage"
+  },
+  "errors": {
+    "somethingWentWrong": "Something went wrong"
   }
 }
 

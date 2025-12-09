@@ -1,6 +1,9 @@
 {
   "homepage": {
     "title": "Page d'accueil"
+  },
+  "errors": {
+    "somethingWentWrong": "Quelque chose s'est mal passé"
   }
 }
 
