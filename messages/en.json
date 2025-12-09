@@ -1,9 +1,22 @@
 {
   "homepage": {
-    "title": "Homepage"
+    "title": "Users List"
   },
   "errors": {
     "somethingWentWrong": "Something went wrong"
+  },
+  "users": {
+    "usersTable": {
+      "id": "ID",
+      "name": "Name",
+      "username": "Username",
+      "email": "Email",
+      "phone": "Phone",
+      "website": "Website",
+      "city": "City",
+      "company": "Company"
+    },
+    "noUsersFound": "No users found"
   }
 }
 
