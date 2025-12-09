@@ -16,7 +16,15 @@
       "city": "City",
       "company": "Company"
     },
-    "noUsersFound": "No users found"
+    "noUsersFound": "No users found",
+    "searchPlaceholder": "Search by name or email...",
+    "foundUsers": "Found {count} user",
+    "foundUsersPlural": "Found {count} users",
+    "usersTitle": "Users",
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page",
+    "of": "of"
   }
 }
 

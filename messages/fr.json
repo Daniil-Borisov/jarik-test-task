@@ -16,7 +16,15 @@
       "city": "Ville",
       "company": "Entreprise"
     },
-    "noUsersFound": "Aucun utilisateur trouvé"
+    "noUsersFound": "Aucun utilisateur trouvé",
+    "searchPlaceholder": "Rechercher par nom ou email...",
+    "foundUsers": "{count} utilisateur trouvé",
+    "foundUsersPlural": "{count} utilisateurs trouvés",
+    "usersTitle": "Utilisateurs",
+    "previous": "Précédent",
+    "next": "Suivant",
+    "page": "Page",
+    "of": "sur"
   }
 }
 
